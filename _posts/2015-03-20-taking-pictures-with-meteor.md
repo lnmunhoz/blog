@@ -34,7 +34,7 @@ Your project tree should be like this right now:
 {% endhighlight %}
 
 
-Now let's define our template that will be our button and the javascript that will handle this button events.
+Now let's define our template that will be our button and the javascript that will handle his events.
 
 {% highlight html %}
 <!-- camera_button.html -->
