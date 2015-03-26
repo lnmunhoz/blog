@@ -2,7 +2,7 @@
 layout: post
 title:  "Taking Pictures with Meteor"
 date:   2015-03-23 19:01:00
-categories: meteor camera cordova
+categories: meteor camera
 ---
 
 Meteor is a very simple javascript framework that allow us to build amazing applications with a minimal effort. In this post I'll teach you how to access the camera of your desktop or smartphone using the [Meteor Camera Package](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:camera).
