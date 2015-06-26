@@ -10,5 +10,6 @@ time in my OSX that might be helpful for beginners.
 
 - [Install Ruby on Rails · Mac OS X Yosemite](http://railsapps.github.io/installrubyonrails-mac.html)
 - [Installing Norogiri](http://www.nokogiri.org/tutorials/installing_nokogiri.html)
+- [Devise raises error with Rails 4.2 upgrade](http://stackoverflow.com/questions/27611947/devise-raises-error-with-rails-4-2-upgrade)
 
 Cheers!
